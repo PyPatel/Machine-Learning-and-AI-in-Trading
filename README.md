@@ -14,6 +14,12 @@ Packages Used:
 
 Still Working... Will keep on updating...
 
+**LSTMs** have gave me promosing results and now I am exploring advance LSTM like MD-LSTM and MiD-LSTM for better prediction and more feature inclusion.
+
+Here is result one of my project done for Sentiment Analysis on News Paper and advanced LSTM with RNN.
+
+
+
 
 **Help & Motivate my work by little generosity:**
 
