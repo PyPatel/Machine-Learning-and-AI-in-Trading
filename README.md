@@ -21,7 +21,7 @@ Here is result one of my project done for Sentiment Analysis on News and LSTM wi
 Below is Prediction for NASDAQ using our model. Price is scaled to 1. Trained the model for past 2 years and predicted the results for 200 days in the future.
 ![Predicted Results for NASDAQ](https://i.imgur.com/tWV8CxV.png)
 
-I can't opensource above project as we are talking to Financial Institutions. If anyone here is interested, Contact me.
+I can't opensource above project as we are talking to Financial Institutions. If anyone here is interested, Contact here, [LinkedIn](https://www.linkedin.com/in/statsofharshpatel/) or [Mail](mailto:harshpateliitm@gmail.com).
 
 **Help & Motivate my work by little generosity:**
 
