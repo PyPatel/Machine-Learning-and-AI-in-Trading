@@ -1,6 +1,5 @@
 # Machine-Learning-and-AI-in-Trading
 
-
 Here is some of codes generated in Python using Machine Learning and AI for generating prediction in Stock Prices. 
 
 Packages Used: 
@@ -23,8 +22,12 @@ Below is Prediction for NASDAQ using our model. Price is scaled to 1. Trained th
 
 I can't opensource above project as we are talking to Financial Institutions. If anyone here is interested, Contact here, [LinkedIn](https://www.linkedin.com/in/statsofharshpatel/) or [Mail](mailto:harshpateliitm@gmail.com).
 
-**Help & Motivate my work by little generosity:**
+### Help & Motivate my work by little generosity:
 
-Bitcoin: [1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND](https://tradeblock.com/bitcoin/address/1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND)
+[![donateBitcoin](https://img.shields.io/badge/Donate-Bitcoin-yellow.svg)](https://tradeblock.com/bitcoin/address/1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND)
+[![donateEthereum](https://img.shields.io/badge/Donate-Ethereum-lightgrey.svg)](https://tradeblock.com/ethereum/account/e8D182b01dB66d7D1e6094169fAd087A09A92E95)
 
-Ethereum: [0xe8D182b01dB66d7D1e6094169fAd087A09A92E95](https://tradeblock.com/ethereum/account/e8D182b01dB66d7D1e6094169fAd087A09A92E95)
+### My Work and Profile
+
+[![viewLinkedIn](https://img.shields.io/badge/View-LinkedIn-blue.svg)](https://www.linkedin.com/in/statsofharshpatel/)    [![viewGithub](https://img.shields.io/badge/View-Github-orange.svg)](https://github.com/PyPatel)
+
