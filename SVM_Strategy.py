@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import talib as ta
 import seaborn as sns
-import fix_yahoo_finance
+import yfinance
 
 from pandas_datareader import data as web
 from sklearn import mixture as mix
