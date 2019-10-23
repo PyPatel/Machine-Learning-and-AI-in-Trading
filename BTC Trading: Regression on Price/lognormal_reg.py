@@ -18,7 +18,7 @@ def noDays(day):
     return int(delta.days)
 
 # Get data
-data = pd.read_csv('C:/Users/pharsh/Downloads/numerai/market-price.csv')
+data = pd.read_csv('./market-price.csv')
 data.columns = ['Date', 'Price']
 data['Date'] =pd.to_datetime(data.Date).dt.date
 
