@@ -16,3 +16,5 @@ If you want minute or even second level data, I recommend [Bitcoincharts API Dat
 Modelling above equation will give you below graph
 
 ` ![title](Images/example1.png)
+
+PS: To include LaTeX equations like above to readME files use [CodeCogs](https://www.codecogs.com/latex/eqneditor.php)
