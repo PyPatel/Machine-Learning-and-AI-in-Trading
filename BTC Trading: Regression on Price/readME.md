@@ -15,6 +15,6 @@ If you want minute or even second level data, I recommend [Bitcoincharts API Dat
 ### Results
 Modelling above equation will give you below graph
 
-` ![title](Images/example1.png)
+![Log Normal Regression with Support line](https://raw.githubusercontent.com/PyPatel/Machine-Learning-and-AI-in-Trading/master/BTC Trading: Regression on Price/lognormal_reg_support.png.png)
 
 PS: To include LaTeX equations like above to readME files use [CodeCogs](https://www.codecogs.com/latex/eqneditor.php)
