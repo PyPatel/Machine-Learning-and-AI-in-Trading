@@ -30,3 +30,4 @@ Below is Prediction for NASDAQ using our model. Price is scaled to 1. Trained th
 
 [![viewLinkedIn](https://img.shields.io/badge/View-LinkedIn-blue.svg)](https://www.linkedin.com/in/statsofharshpatel/)    [![viewGithub](https://img.shields.io/badge/View-Github-orange.svg)](https://github.com/PyPatel)
 
+PS: These are my own codes which are stricktly experimental. This does not represent firms views. Use these codes at your own risks. 
