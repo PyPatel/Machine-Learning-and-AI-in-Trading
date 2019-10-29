@@ -1,5 +1,5 @@
 ## Lognormal Regression of Bitcoin daily price
-
+> This is long term strategy, Do Not use this to do day trading.!
 ### Equation:
 ![equation](https://latex.codecogs.com/gif.latex?%5Clog_%7B10%7D%28Price%29%20%3D%20m%20*%20%5Clog_%7B10%7D%28%5Ctext%7Bdays%20since%20inception%7D%29%20&plus;%20b)
 
